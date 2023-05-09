@@ -1,0 +1,73 @@
+.heart{
+    display: flex;
+    align-items: center;
+  }
+  .logo{
+    display: flex;
+    align-items: center;
+  }
+  .Navbar{
+    background-color: black;
+  }  
+  .fen{
+    text-align: center;
+    font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 27px;
+  color: black;
+  }
+  .number{
+    font-family: 'NAMU';
+font-style: normal;
+font-weight: 900;
+font-size: 42px;
+line-height: 50px;
+
+color: #111111;
+  }
+  .fen-2{
+    color: #ABABAB;
+  }
+  .taroq{
+    display: flex;
+    align-items: center;
+  }
+  .up{
+    padding: 20.60px;
+    background-color: black;
+    color: white;
+  }
+  .hard{
+    display: flex;
+    align-items: center;
+  }
+  .dayy{
+    text-align: center;
+  }
+  .card-4-1{
+    box-shadow: 1px 0px 0px 10px;
+  }
+  footer{
+    background: black;
+  }
+  .numb{
+font-weight: 400;
+font-size: 24px;
+color: #FFFFFF;
+}
+.numbS{
+    color: white;
+}
+.big{
+font-weight: 300;
+font-size: 18px;
+color: #111111;
+}
+.hd{
+font-weight: 900;
+font-size: 38px;
+color: #111111;
+
+}
