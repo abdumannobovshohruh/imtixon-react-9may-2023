@@ -1,3 +1,4 @@
+import { Navbar } from 'react-bootstrap';
 import './App.css';
 import './components/foooter/footer'
 import './components/navbar/navbar'
@@ -7,8 +8,9 @@ function App() {
   return (
    <>
       <navbar>
-        <h1>Sardor aka qalaysiz? </h1>
+        <h1>{/* Sardor aka qalaysiz? */} Hello world! </h1>
       </navbar>
+      <Navbar></Navbar>
    </>
   );
 }
