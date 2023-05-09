@@ -69,5 +69,14 @@ color: #111111;
 font-weight: 900;
 font-size: 38px;
 color: #111111;
-
+}
+.but{
+font-weight: 900;
+font-size: 30px;
+color: #111111;
+}
+.speed{
+font-weight: 300;
+font-size: 18px;
+color: #111111;
 }
