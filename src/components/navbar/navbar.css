@@ -5,6 +5,8 @@
   .logo{
     display: flex;
     align-items: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
   }
   .Navbar{
     background-color: black;
@@ -79,4 +81,7 @@ color: #111111;
 font-weight: 300;
 font-size: 18px;
 color: #111111;
+}
+.komp{
+    margin-top: 100px;
 }
